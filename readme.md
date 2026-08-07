@@ -18,5 +18,5 @@ go build -o task-cli.exe main.go
 # Project Url
 
 ```
-https://github.com/tajinder2317/task-tracker
+https://roadmap.sh/projects/task-tracker
 ```
